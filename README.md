@@ -145,7 +145,7 @@ This portfolio embodies:
    git add .
    git commit -m "Initial commit: Interface Systems Portfolio"
    git branch -M main
-   git remote add origin https://github.com/YOUR_USERNAME/interface-systems.git
+   git remote add origin https://github.com/satyamagic/interface-systems.git
    git push -u origin main
    ```
 
@@ -156,7 +156,7 @@ This portfolio embodies:
    - Click **Save**
 
 3. **Access Your Site:**
-   - Your portfolio will be live at: `https://YOUR_USERNAME.github.io/interface-systems/`
+   - Your portfolio will be live at: `https://satyamagic.github.io/interface-systems/`
 
 ### Local Development
 
@@ -236,7 +236,7 @@ MIT License ,  Free to use, modify, and distribute.
 ## Contact
 
 **Satya Nagara**  
-GitHub: [interface-systems](https://github.com/YOUR_USERNAME/interface-systems)
+GitHub: [interface-systems](https://github.com/satyamagic/interface-systems)
 
 ---
 
