@@ -135,47 +135,6 @@ This portfolio embodies:
 
 ---
 
-## GitHub Pages Deployment
-
-### Quick Deploy
-
-1. **Push to GitHub:**
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit: Interface Systems Portfolio"
-   git branch -M main
-   git remote add origin https://github.com/satyamagic/interface-systems.git
-   git push -u origin main
-   ```
-
-2. **Enable GitHub Pages:**
-   - Go to your repository settings
-   - Navigate to **Pages** section
-   - Under **Source**, select `main` branch and `/ (root)` folder
-   - Click **Save**
-
-3. **Access Your Site:**
-   - Your portfolio will be live at: `https://satyamagic.github.io/interface-systems/`
-
-### Local Development
-
-To preview locally, simply open `index.html` in your browser:
-
-```bash
-# Option 1: Direct open
-open index.html
-
-# Option 2: Local server (Python)
-python3 -m http.server 8000
-# Visit http://localhost:8000
-
-# Option 3: Local server (Node.js)
-npx http-server
-```
-
----
-
 ## Project Structure
 
 ```
