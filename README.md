@@ -18,8 +18,6 @@ Built with pure HTML and CSS (minimal JavaScript only where absolutely necessary
 
 ### 1. System Boot Landing Animation
 
-![System Boot Animation](assets/screenshots/boot-animation.png)
-
 A fullscreen terminal-style initialization sequence that greets visitors with an authentic system boot experience. Built entirely with CSS keyframe animations, this intro establishes the tactical, high-tech aesthetic of the portfolio.
 
 **Technical Details:**
@@ -31,8 +29,6 @@ A fullscreen terminal-style initialization sequence that greets visitors with an
 ---
 
 ### 2. Hero Interface Banner
-
-![Hero Interface](assets/screenshots/hero-interface.png)
 
 The primary landing interface features an animated procedural grid background with strong, bold typography. No carousel or slider, just a clean, focused statement that communicates purpose immediately.
 
@@ -46,8 +42,6 @@ The primary landing interface features an animated procedural grid background wi
 
 ### 3. Interactive Skill Matrix
 
-![Skill Matrix](assets/screenshots/skill-matrix.png)
-
 A visual representation of capabilities organized as an interactive node grid. Hovering over each node reveals underlying philosophy and design thinking rather than listing technical buzzwords.
 
 **Technical Details:**
@@ -59,8 +53,6 @@ A visual representation of capabilities organized as an interactive node grid. H
 ---
 
 ### 4. Concept Simulator Section
-
-![Concept Simulator](assets/screenshots/concept-simulator.png)
 
 An abstract, HUD-style interface with interactive controls (sliders, toggles) that visually demonstrate real-time system design thinking. This section simulates interface behavior and layout adjustments conceptually.
 
@@ -74,8 +66,6 @@ An abstract, HUD-style interface with interactive controls (sliders, toggles) th
 
 ### 5. Design Principles
 
-![Design Principles](assets/screenshots/principles.png)
-
 A numbered, system-style list of core design principles that guide interface work. Principles are revealed with subtle animations, emphasizing clarity, resilience, offline-first thinking, and human-centered design.
 
 **Technical Details:**
@@ -88,8 +78,6 @@ A numbered, system-style list of core design principles that guide interface wor
 
 ### 6. Abstract Interface Gallery
 
-![Abstract Gallery](assets/screenshots/abstract-gallery.png)
-
 A collection of abstract visual concepts representing interface ideas. Each thumbnail uses CSS effects like clip-path, masks, and glows to create dynamic hover interactions. No actual past projects, only conceptual explorations.
 
 **Technical Details:**
@@ -101,8 +89,6 @@ A collection of abstract visual concepts representing interface ideas. Each thum
 ---
 
 ### 7. Footer System Metadata
-
-![Footer Metadata](assets/screenshots/footer.png)
 
 A minimalist footer styled as system metadata, listing the tech stack, build information, and copyright in a monospace, terminal-style format.
 
@@ -142,10 +128,7 @@ This portfolio embodies:
 interface-systems/
 ├── index.html              # Main HTML file
 ├── styles.css              # All styles
-├── README.md               # This file
-├── README_TODO.md          # Development task list
-└── assets/
-    └── screenshots/        # Screenshots for documentation
+└── README.md               # This file
 ```
 
 ---
